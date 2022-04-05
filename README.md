@@ -1,25 +1,10 @@
 ### Hi there 👋
 
-<!--
-**JulioDinizN/JulioDinizN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Olá 👋, sou Julio Cesar</h1>
-<h3 align="center">Estou cursando a faculdade de Análise e desenvolvimento de Sistemas e venho me especializando em desenvolvimento por meio de projetos pessoais e pelos cursos da plataforma de educação RocketSeat(React.js, Styled Components, Next.js). Atualmente trabalho como estágiario em desenvolvimento Front-End.</h3>
+<h3 align="center">Estou cursando a faculdade de Análise e desenvolvimento de Sistemas e venho me especializando em desenvolvimento por meio de projetos pessoais e pelos cursos da plataforma de educação RocketSeat(React.js, Styled Components, Next.js). Atualmente trabalho como Desenvolvedor Full-stack.</h3>
 
 - 🌱 Estou me especializando em React JS, React Native e Next.JS.
-- 👯 Estou trabalhando no IPAM como estágiario em desenvolvimento Front-End.
+- 👯 Estou trabalhando na Kukac como Desenvolvedor Full-stack.
 - 😄 Sempre em busca de aprender novas tecnologias.
 - 📫 Contate-me pelo meu e-mail **juliocesardiniznogueira@gmail.com** ou no telefone +55 (61) 993724653 (número com whatsapp).  
  
