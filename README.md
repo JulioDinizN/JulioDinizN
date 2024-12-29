@@ -1,25 +1,53 @@
-### Hi there 👋
+# 💻 Julio Diniz | Full-Stack Developer & React Native Specialist  
 
-<h1 align="center">Olá 👋, sou Julio Cesar</h1>
-<h3 align="center">Estou cursando a faculdade de Análise e desenvolvimento de Sistemas e venho me especializando em desenvolvimento por meio de projetos pessoais e pelos cursos da plataforma de educação RocketSeat(React.js, Styled Components, Next.js). Atualmente trabalho como Desenvolvedor Full-stack.</h3>
+Hi there! 👋 I'm **Julio Diniz**, a passionate **Full-Stack Developer** and **React Native Specialist** with extensive experience building robust and user-friendly mobile and web applications. I thrive on solving complex problems, delivering exceptional user experiences, and staying on the cutting edge of technology.  
 
-- 🌱 Estou me especializando em React JS, React Native e Next.JS.
-- 👯 Estou trabalhando na Kukac como Desenvolvedor Full-stack.
-- 😄 Sempre em busca de aprender novas tecnologias.
-- 📫 Contate-me pelo meu e-mail **juliocesardiniznogueira@gmail.com**.  
- 
-<h3 align="left">Redes Sociais:</h3>
- <a href="https://www.linkedin.com/in/júlio-césar-diniz-nogueira-9ba461211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+## 🚀 About Me  
 
-<h3 align="left">Habilidades:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> 
+- 🔭 **Current Role**: Senior Software Engineer at **Corebiz (VML)**  
+  I lead the development of mobile and web applications, leveraging my expertise in **React Native**, **Node.js**, and modern JavaScript frameworks.  
+- 🌱 Constantly exploring innovative technologies to enhance my skills and deliver impactful solutions.  
+- 🎯 Specialist in mobile development with **React Native**, crafting high-performance apps with seamless user interfaces.  
 
+## 🧑‍💻 Technical Skills  
 
+### Mobile Development
+- **Languages**: JavaScript, TypeScript, Kotlin, Swift
+- **Frameworks**: React Native  
+- **State Management**: Redux, Context API, Zustand 
+- **API Integration**: RESTful APIs, Axios, Graphql  
+- **Offline-First Design**: Local Storage, SQLite, and caching strategies  
 
-<div>
-  <a href="https://github.com/juliodinizn?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliodinizn&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliodinizn&layout=compact&langs_count=7&theme=react"/>
-</div>
- 
- ![Snake animation](https://github.com/Thiagobiscoito/Thiagobiscoito/blob/output/github-contribution-grid-snake.svg)
+### Frontend Development  
+- **Languages**: JavaScript, TypeScript  
+- **Frameworks & Libraries**: React, Angular  
+- **Styling**: CSS3, SASS, Tailwind  
+
+### Backend Development  
+- **Languages**: Node.js  
+- **Frameworks**: NestJS, Express.js  
+- **Databases**: PostgreSQL, MongoDB, MySQL  
+- **ORM/ODM**: Sequelize, Mongoose  
+
+### Tools & Practices  
+- **DevOps**: Docker  
+- **Messaging**: Redis  
+- **Version Control**: Git, GitHub  
+- **Agile Development**: Scrum  
+
+## 🏆 Achievements  
+
+- 🚀 **React Native Expertise**: Developed and optimized mobile applications with advanced features like offline-first functionality and interactive maps, ensuring reliability and outstanding user experience.  
+- 📱 **Mobile Innovation**: Designed user-centric mobile solutions that streamlined workflows and improved app performance.  
+- 📈 **Scalable Architectures**: Built microservices and APIs using **Node.js** and **Redis**, ensuring scalability and seamless communication between services.  
+- 🔧 **Technical Leadership**: Advocated for and implemented the adoption of **NestJS** and **Docker**, enhancing team efficiency and code maintainability.  
+
+### Key Contributions:  
+- 🗺️ Enhanced app capabilities with **offline-first features** and **interactive map functionality**, improving usability in low-connectivity environments.  
+- 🚀 Delivered seamless integrations between frontends and backend services, ensuring data consistency and scalability.  
+
+## 📫 Let's Connect  
+
+- 🌐 [Portfolio](https://juliodinizn.github.io/resume)
+- 💼 [LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-diniz-nogueira-9ba461211/)  
+- 📧 Email: juliocesardiniznogueira@gmail.com  
